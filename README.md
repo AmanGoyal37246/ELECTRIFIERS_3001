@@ -14,3 +14,8 @@ Testing dataset used: testing video.mp4
 How to run:
 1) Open Dataset_generation_using _face_extraction in google collab
 2) Run all the cells one by one
+
+Note:
+1) Progress till 3 PM: Try_01.ipynb
+2) Progress till 7 PM: Face_rec_02.ipynb
+*Dont run these files now
