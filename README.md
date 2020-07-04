@@ -18,5 +18,3 @@ How to run:
 Note:
 1) Progress till 3 PM: Try_01.ipynb
 2) Progress till 7 PM: Face_rec_02.ipynb
-
-*Dont run these files now
