@@ -4,7 +4,7 @@ Repository for create-a-thon challenge
 Steps:
 1) Capturing faces from the training video using haarcascode_frontalface_default.xml
 2) Extracting images to a specific folder as a dataset for further analysis.
-3) Classifying images as criminals
+3) Analysing other videos and and extracting faces from it.
 4) Using SSIM technique to compare images from new video and classify them as criminals/non-criminals
 
 Training video used: tbbt.mp4
