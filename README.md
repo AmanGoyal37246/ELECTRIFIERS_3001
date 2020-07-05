@@ -12,7 +12,7 @@ dataset generated after training video: folder (Dataset generated after face ext
 Testing dataset used: testing video.mp4
 
 How to run:
-1) Open Dataset_generation_using _face_extraction in google collab
+1) Open Face(2).ipynb in google collab
 2) Run all the cells one by one
 
 Note:
